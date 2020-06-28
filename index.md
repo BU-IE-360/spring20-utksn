@@ -1,4 +1,4 @@
-# Welcome to my IE 360 Journal
+# Welcome to my Journal.
 
 My name is Utku Şen.
 
